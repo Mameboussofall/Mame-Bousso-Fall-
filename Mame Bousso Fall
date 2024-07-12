@@ -1,0 +1,20 @@
+<! DOCTYPE html>
+<html>
+       <head>
+             <meta chardet="utf-8">
+             <title> Mame Bousso Fall </title>
+      </head>
+
+      <body>
+           <h1> chapitre 1 </h1>
+           <p> mon 1er paragraphe du chapitre 1 </p>
+           <p> mon 2em paragraphe du chapitre 1 </p>
+           <p> mon 3em paragraphe du chapitre 1 </p>
+           <h2> chapitre 2 </h2>
+           <p> mon 1er paragraphe du chapitre 2 </p>
+           <p> mon 2em paragraphe du chapitre 2 </p>
+           <p> mon 3em paragraphe du chapitre 2 </p>
+           <h3> chapitre 3 </h3>
+           <p> mon 1er paragraphe du chapitre 3 </p>
+           <p> mon 2em paragraphe du chapitre 3 </p>
+           <p> mon 3em paragraphe du chapitre 3 </p>
